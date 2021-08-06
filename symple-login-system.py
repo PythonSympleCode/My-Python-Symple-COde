@@ -13,8 +13,8 @@ print("")
 username = input ("Username : ")
 password = getpass.getpass(prompt='Password : ')
 
-user = ('Bumi1234')
-passw = ('bumi123')
+user = ('user')
+passw = ('passw')
 
 
 import os
